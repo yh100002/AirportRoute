@@ -1,0 +1,13 @@
+
+<div class="card" style="width: 30;">
+  <h5 class="card-header">{{route.flightFare}} EUR</h5>
+  <div class="card-body">
+    <h5 class="card-title">Origin: {{route.sourceAirportName}}</h5>
+    <h5 class="card-title">Destination: {{route.destinationAirportName}}</h5>    
+   
+    <p class="card-text">Departure Date: {{route.departureDateTime}}</p>   
+  
+    <a href="#" class="btn btn-primary" [routerLink]="['/purchase/', route.routeId]">Buy</a>
+  </div>
+</div>
+

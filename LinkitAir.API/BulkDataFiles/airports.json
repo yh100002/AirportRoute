@@ -1,0 +1,1502 @@
+[
+    {
+      "AirportID": 580,
+      "AirportName": "Amsterdam Airport Schiphol",
+      "City": "Amsterdam",
+      "Country": "Netherlands",
+      "AirportIATA": "AMS",
+      "AirportICAO": "EHAM",
+      "Lat": 52.308601,
+      "Lon": 4.76389
+    },
+    {
+      "AirportID": 582,
+      "AirportName": "Maastricht Aachen Airport",
+      "City": "Maastricht",
+      "Country": "Netherlands",
+      "AirportIATA": "MST",
+      "AirportICAO": "EHBK",
+      "Lat": 50.9117012,
+      "Lon": 5.770140171
+    },
+    {
+      "AirportID": 585,
+      "AirportName": "Eindhoven Airport",
+      "City": "Eindhoven",
+      "Country": "Netherlands",
+      "AirportIATA": "EIN",
+      "AirportICAO": "EHEH",
+      "Lat": 51.45009995,
+      "Lon": 5.374529839
+    },
+    {
+      "AirportID": 586,
+      "AirportName": "Eelde Airport",
+      "City": "Groningen",
+      "Country": "Netherlands",
+      "AirportIATA": "GRQ",
+      "AirportICAO": "EHGG",
+      "Lat": 53.11970139,
+      "Lon": 6.579440117
+    },
+    {
+      "AirportID": 2990,
+      "AirportName": "Gilze Rijen Air Base",
+      "City": "Gilze-rijen",
+      "Country": "Netherlands",
+      "AirportIATA": "GLZ",
+      "AirportICAO": "EHGR",
+      "Lat": 51.56740189,
+      "Lon": 4.931829929
+    },
+    {
+      "AirportID": 2965,
+      "AirportName": "De Kooy Airport",
+      "City": "De Kooy",
+      "Country": "Netherlands",
+      "AirportIATA": "DHR",
+      "AirportICAO": "EHKD",
+      "Lat": 52.92340088,
+      "Lon": 4.780620098
+    },
+    {
+      "AirportID": 589,
+      "AirportName": "Lelystad Airport",
+      "City": "Lelystad",
+      "Country": "Netherlands",
+      "AirportIATA": "LEY",
+      "AirportICAO": "EHLE",
+      "Lat": 52.4603,
+      "Lon": 5.52722
+    },
+    {
+      "AirportID": 590,
+      "AirportName": "Leeuwarden Air Base",
+      "City": "Leeuwarden",
+      "Country": "Netherlands",
+      "AirportIATA": "LWR",
+      "AirportICAO": "EHLW",
+      "Lat": 53.22859955,
+      "Lon": 5.760560036
+    },
+    {
+      "AirportID": 591,
+      "AirportName": "Rotterdam The Hague Airport",
+      "City": "Rotterdam",
+      "Country": "Netherlands",
+      "AirportIATA": "RTM",
+      "AirportICAO": "EHRD",
+      "Lat": 51.956902,
+      "Lon": 4.43722
+    },
+    {
+      "AirportID": 592,
+      "AirportName": "Soesterberg Air Base",
+      "City": "Soesterberg",
+      "Country": "Netherlands",
+      "AirportIATA": "UTC",
+      "AirportICAO": "EHSB",
+      "Lat": 52.12730026,
+      "Lon": 5.276189804
+    },
+    {
+      "AirportID": 593,
+      "AirportName": "Twente Airport",
+      "City": "Enschede",
+      "Country": "Netherlands",
+      "AirportIATA": "ENS",
+      "AirportICAO": "EHTW",
+      "Lat": 52.275833,
+      "Lon": 6.889167
+    },
+    {
+      "AirportID": 594,
+      "AirportName": "Valkenburg Naval Air Base",
+      "City": "Valkenburg",
+      "Country": "Netherlands",
+      "AirportIATA": "LID",
+      "AirportICAO": "EHVB",
+      "Lat": 52.16609955,
+      "Lon": 4.41794014
+    },
+    {
+      "AirportID": 595,
+      "AirportName": "Woensdrecht Air Base",
+      "City": "Woensdrecht",
+      "Country": "Netherlands",
+      "AirportIATA": "WOE",
+      "AirportICAO": "EHWO",
+      "Lat": 51.4491,
+      "Lon": 4.34203
+    },
+    {
+      "AirportID": 629,
+      "AirportName": "Luxembourg-Findel International Airport",
+      "City": "Luxemburg",
+      "Country": "Luxembourg",
+      "AirportIATA": "LUX",
+      "AirportICAO": "ELLX",
+      "Lat": 49.6233333,
+      "Lon": 6.2044444
+    },
+    {
+      "AirportID": 1665,
+      "AirportName": "Geneva Cointrin International Airport",
+      "City": "Geneva",
+      "Country": "Switzerland",
+      "AirportIATA": "GVA",
+      "AirportICAO": "LSGG",
+      "Lat": 46.23809814,
+      "Lon": 6.108950138
+    },
+    {
+      "AirportID": 1667,
+      "AirportName": "Sion Airport",
+      "City": "Sion",
+      "Country": "Switzerland",
+      "AirportIATA": "SIR",
+      "AirportICAO": "LSGS",
+      "Lat": 46.21960068,
+      "Lon": 7.326759815
+    },
+    {
+      "AirportID": 1670,
+      "AirportName": "Emmen Air Base",
+      "City": "Emmen",
+      "Country": "Switzerland",
+      "AirportIATA": "EML",
+      "AirportICAO": "LSME",
+      "Lat": 47.092444,
+      "Lon": 8.305184
+    },
+    {
+      "AirportID": 1675,
+      "AirportName": "Lugano Airport",
+      "City": "Lugano",
+      "Country": "Switzerland",
+      "AirportIATA": "LUG",
+      "AirportICAO": "LSZA",
+      "Lat": 46.00429916,
+      "Lon": 8.910579681
+    },
+    {
+      "AirportID": 1676,
+      "AirportName": "Bern Belp Airport",
+      "City": "Bern",
+      "Country": "Switzerland",
+      "AirportIATA": "BRN",
+      "AirportICAO": "LSZB",
+      "Lat": 46.91410065,
+      "Lon": 7.497149944
+    },
+    {
+      "AirportID": 1677,
+      "AirportName": "Grenchen Airport",
+      "City": "Grenchen",
+      "Country": "Switzerland",
+      "AirportIATA": "ZHI",
+      "AirportICAO": "LSZG",
+      "Lat": 47.181599,
+      "Lon": 7.41719
+    },
+    {
+      "AirportID": 1678,
+      "AirportName": "Z?rich Airport",
+      "City": "Zurich",
+      "Country": "Switzerland",
+      "AirportIATA": "ZRH",
+      "AirportICAO": "LSZH",
+      "Lat": 47.464699,
+      "Lon": 8.54917
+    },
+    {
+      "AirportID": 1679,
+      "AirportName": "St Gallen Altenrhein Airport",
+      "City": "Altenrhein",
+      "Country": "Switzerland",
+      "AirportIATA": "ACH",
+      "AirportICAO": "LSZR",
+      "Lat": 47.48500061,
+      "Lon": 9.560770035
+    },
+    {
+      "AirportID": 1680,
+      "AirportName": "Samedan Airport",
+      "City": "Samedan",
+      "Country": "Switzerland",
+      "AirportIATA": "SMV",
+      "AirportICAO": "LSZS",
+      "Lat": 46.53409958,
+      "Lon": 9.884110451
+    },
+    {
+      "AirportID": 1682,
+      "AirportName": "Esenbo?a International Airport",
+      "City": "Ankara",
+      "Country": "Turkey",
+      "AirportIATA": "ESB",
+      "AirportICAO": "LTAC",
+      "Lat": 40.12810135,
+      "Lon": 32.99509811
+    },
+    {
+      "AirportID": 1683,
+      "AirportName": "Etimesgut Air Base",
+      "City": "Ankara",
+      "Country": "Turkey",
+      "AirportIATA": "ANK",
+      "AirportICAO": "LTAD",
+      "Lat": 39.94979858,
+      "Lon": 32.68859863
+    },
+    {
+      "AirportID": 1685,
+      "AirportName": "Adana Airport",
+      "City": "Adana",
+      "Country": "Turkey",
+      "AirportIATA": "ADA",
+      "AirportICAO": "LTAF",
+      "Lat": 36.98220062,
+      "Lon": 35.28039932
+    },
+    {
+      "AirportID": 1686,
+      "AirportName": "?ncirlik Air Base",
+      "City": "Adana",
+      "Country": "Turkey",
+      "AirportIATA": "UAB",
+      "AirportICAO": "LTAG",
+      "Lat": 37.0021019,
+      "Lon": 35.42589951
+    },
+    {
+      "AirportID": 1687,
+      "AirportName": "Afyon Airport",
+      "City": "Afyon",
+      "Country": "Turkey",
+      "AirportIATA": "AFY",
+      "AirportICAO": "LTAH",
+      "Lat": 38.72639847,
+      "Lon": 30.60110092
+    },
+    {
+      "AirportID": 1688,
+      "AirportName": "Antalya International Airport",
+      "City": "Antalya",
+      "Country": "Turkey",
+      "AirportIATA": "AYT",
+      "AirportICAO": "LTAI",
+      "Lat": 36.898701,
+      "Lon": 30.800501
+    },
+    {
+      "AirportID": 1689,
+      "AirportName": "Gaziantep International Airport",
+      "City": "Gaziantep",
+      "Country": "Turkey",
+      "AirportIATA": "GZT",
+      "AirportICAO": "LTAJ",
+      "Lat": 36.94720078,
+      "Lon": 37.47869873
+    },
+    {
+      "AirportID": 1691,
+      "AirportName": "Konya Airport",
+      "City": "Konya",
+      "Country": "Turkey",
+      "AirportIATA": "KYA",
+      "AirportICAO": "LTAN",
+      "Lat": 37.979,
+      "Lon": 32.561901
+    },
+    {
+      "AirportID": 1693,
+      "AirportName": "Amasya Merzifon Airport",
+      "City": "Merzifon",
+      "Country": "Turkey",
+      "AirportIATA": "MZH",
+      "AirportICAO": "LTAP",
+      "Lat": 40.829399,
+      "Lon": 35.521999
+    },
+    {
+      "AirportID": 1694,
+      "AirportName": "Sivas Nuri Demira? Airport",
+      "City": "Sivas",
+      "Country": "Turkey",
+      "AirportIATA": "VAS",
+      "AirportICAO": "LTAR",
+      "Lat": 39.813801,
+      "Lon": 36.9035
+    },
+    {
+      "AirportID": 1695,
+      "AirportName": "Malatya Erha? Airport",
+      "City": "Malatya",
+      "Country": "Turkey",
+      "AirportIATA": "MLX",
+      "AirportICAO": "LTAT",
+      "Lat": 38.43529892,
+      "Lon": 38.0909996
+    },
+    {
+      "AirportID": 1696,
+      "AirportName": "Kayseri Erkilet Airport",
+      "City": "Kayseri",
+      "Country": "Turkey",
+      "AirportIATA": "ASR",
+      "AirportICAO": "LTAU",
+      "Lat": 38.770401,
+      "Lon": 35.49539948
+    },
+    {
+      "AirportID": 1698,
+      "AirportName": "Tokat Airport",
+      "City": "Tokat",
+      "Country": "Turkey",
+      "AirportIATA": "TJK",
+      "AirportICAO": "LTAW",
+      "Lat": 40.30743027,
+      "Lon": 36.36740875
+    },
+    {
+      "AirportID": 1699,
+      "AirportName": "?ardak Airport",
+      "City": "Denizli",
+      "Country": "Turkey",
+      "AirportIATA": "DNZ",
+      "AirportICAO": "LTAY",
+      "Lat": 37.78559875,
+      "Lon": 29.70129967
+    },
+    {
+      "AirportID": 1701,
+      "AirportName": "Atat?rk International Airport",
+      "City": "Istanbul",
+      "Country": "Turkey",
+      "AirportIATA": "IST",
+      "AirportICAO": "LTBA",
+      "Lat": 40.976898,
+      "Lon": 28.8146
+    },
+    {
+      "AirportID": 1702,
+      "AirportName": "Bal%uFFFD%uFFFDkesir Merkez Airport",
+      "City": "Balikesir",
+      "Country": "Turkey",
+      "AirportIATA": "BZI",
+      "AirportICAO": "LTBF",
+      "Lat": 39.61930084,
+      "Lon": 27.9260006
+    },
+    {
+      "AirportID": 1703,
+      "AirportName": "Band%uFFFD%uFFFDrma Airport",
+      "City": "Bandirma",
+      "Country": "Turkey",
+      "AirportIATA": "BDM",
+      "AirportICAO": "LTBG",
+      "Lat": 40.31800079,
+      "Lon": 27.97769928
+    },
+    {
+      "AirportID": 1705,
+      "AirportName": "Eski?ehir Air Base",
+      "City": "Eskisehir",
+      "Country": "Turkey",
+      "AirportIATA": "ESK",
+      "AirportICAO": "LTBI",
+      "Lat": 39.78409958,
+      "Lon": 30.58209991
+    },
+    {
+      "AirportID": 1706,
+      "AirportName": "Adnan Menderes International Airport",
+      "City": "Izmir",
+      "Country": "Turkey",
+      "AirportIATA": "ADB",
+      "AirportICAO": "LTBJ",
+      "Lat": 38.29240036,
+      "Lon": 27.15699959
+    },
+    {
+      "AirportID": 1708,
+      "AirportName": "?i?li Airport",
+      "City": "Izmir",
+      "Country": "Turkey",
+      "AirportIATA": "IGL",
+      "AirportICAO": "LTBL",
+      "Lat": 38.51300049,
+      "Lon": 27.01009941
+    },
+    {
+      "AirportID": 1713,
+      "AirportName": "Cengiz Topel Airport",
+      "City": "Topel",
+      "Country": "Turkey",
+      "AirportIATA": "KCO",
+      "AirportICAO": "LTBQ",
+      "Lat": 40.73500061,
+      "Lon": 30.08329964
+    },
+    {
+      "AirportID": 1715,
+      "AirportName": "Dalaman International Airport",
+      "City": "Dalaman",
+      "Country": "Turkey",
+      "AirportIATA": "DLM",
+      "AirportICAO": "LTBS",
+      "Lat": 36.71310043,
+      "Lon": 28.79249954
+    },
+    {
+      "AirportID": 1718,
+      "AirportName": "Ims%uFFFD%uFFFDk Airport",
+      "City": "Bodrum",
+      "Country": "Turkey",
+      "AirportIATA": "BXN",
+      "AirportICAO": "LTBV",
+      "Lat": 37.14009857,
+      "Lon": 27.66970062
+    },
+    {
+      "AirportID": 1721,
+      "AirportName": "Elaz%uFFFD%uFFFD? Airport",
+      "City": "Elazig",
+      "Country": "Turkey",
+      "AirportIATA": "EZS",
+      "AirportICAO": "LTCA",
+      "Lat": 38.60689926,
+      "Lon": 39.29140091
+    },
+    {
+      "AirportID": 1722,
+      "AirportName": "Diyarbakir Airport",
+      "City": "Diyabakir",
+      "Country": "Turkey",
+      "AirportIATA": "DIY",
+      "AirportICAO": "LTCC",
+      "Lat": 37.89390183,
+      "Lon": 40.20100021
+    },
+    {
+      "AirportID": 1723,
+      "AirportName": "Erzincan Airport",
+      "City": "Erzincan",
+      "Country": "Turkey",
+      "AirportIATA": "ERC",
+      "AirportICAO": "LTCD",
+      "Lat": 39.71020126,
+      "Lon": 39.52700043
+    },
+    {
+      "AirportID": 1724,
+      "AirportName": "Erzurum International Airport",
+      "City": "Erzurum",
+      "Country": "Turkey",
+      "AirportIATA": "ERZ",
+      "AirportICAO": "LTCE",
+      "Lat": 39.95650101,
+      "Lon": 41.17020035
+    },
+    {
+      "AirportID": 1726,
+      "AirportName": "Trabzon International Airport",
+      "City": "Trabzon",
+      "Country": "Turkey",
+      "AirportIATA": "TZX",
+      "AirportICAO": "LTCG",
+      "Lat": 40.99509811,
+      "Lon": 39.78969955
+    },
+    {
+      "AirportID": 1728,
+      "AirportName": "Van Ferit Melen Airport",
+      "City": "Van",
+      "Country": "Turkey",
+      "AirportIATA": "VAN",
+      "AirportICAO": "LTCI",
+      "Lat": 38.46820068,
+      "Lon": 43.33229828
+    },
+    {
+      "AirportID": 1729,
+      "AirportName": "Batman Airport",
+      "City": "Batman",
+      "Country": "Turkey",
+      "AirportIATA": "BAL",
+      "AirportICAO": "LTCJ",
+      "Lat": 37.92900085,
+      "Lon": 41.11660004
+    },
+    {
+      "AirportID": 1731,
+      "AirportName": "Siirt Airport",
+      "City": "Siirt",
+      "Country": "Turkey",
+      "AirportIATA": "SXZ",
+      "AirportICAO": "LTCL",
+      "Lat": 37.97890091,
+      "Lon": 41.8404007
+    },
+    {
+      "AirportID": 2361,
+      "AirportName": "Gwangju Airport",
+      "City": "Kwangju",
+      "Country": "South Korea",
+      "AirportIATA": "KWJ",
+      "AirportICAO": "RKJJ",
+      "Lat": 35.123173,
+      "Lon": 126.805444
+    },
+    {
+      "AirportID": 2364,
+      "AirportName": "Jeon Ju Airport (G-703)",
+      "City": "Jhunju",
+      "Country": "South Korea",
+      "AirportIATA": "CHN",
+      "AirportICAO": "RKJU",
+      "Lat": 35.87808,
+      "Lon": 127.119112
+    },
+    {
+      "AirportID": 2365,
+      "AirportName": "Yeosu Airport",
+      "City": "Yeosu",
+      "Country": "South Korea",
+      "AirportIATA": "RSU",
+      "AirportICAO": "RKJY",
+      "Lat": 34.84230042,
+      "Lon": 127.6169968
+    },
+    {
+      "AirportID": 2367,
+      "AirportName": "Gangneung Airport (K-18)",
+      "City": "Kangnung",
+      "Country": "South Korea",
+      "AirportIATA": "KAG",
+      "AirportICAO": "RKNN",
+      "Lat": 37.753601,
+      "Lon": 128.943915
+    },
+    {
+      "AirportID": 2370,
+      "AirportName": "Jeju International Airport",
+      "City": "Cheju",
+      "Country": "South Korea",
+      "AirportIATA": "CJU",
+      "AirportICAO": "RKPC",
+      "Lat": 33.51129913,
+      "Lon": 126.4929962
+    },
+    {
+      "AirportID": 2371,
+      "AirportName": "Jinhae Airbase/Airport (G-813/K-10)",
+      "City": "Chinhae",
+      "Country": "South Korea",
+      "AirportIATA": "CHF",
+      "AirportICAO": "RKPE",
+      "Lat": 35.140248,
+      "Lon": 128.696229
+    },
+    {
+      "AirportID": 2372,
+      "AirportName": "Gimhae International Airport",
+      "City": "Busan",
+      "Country": "South Korea",
+      "AirportIATA": "PUS",
+      "AirportICAO": "RKPK",
+      "Lat": 35.17950058,
+      "Lon": 128.9380035
+    },
+    {
+      "AirportID": 2374,
+      "AirportName": "Ulsan Airport",
+      "City": "Ulsan",
+      "Country": "South Korea",
+      "AirportIATA": "USN",
+      "AirportICAO": "RKPU",
+      "Lat": 35.59349823,
+      "Lon": 129.352005
+    },
+    {
+      "AirportID": 2376,
+      "AirportName": "Seoul Air Base (K-16)",
+      "City": "Seoul East",
+      "Country": "South Korea",
+      "AirportIATA": "SSN",
+      "AirportICAO": "RKSM",
+      "Lat": 37.444744,
+      "Lon": 127.112718
+    },
+    {
+      "AirportID": 2377,
+      "AirportName": "Osan Air Base",
+      "City": "Osan",
+      "Country": "South Korea",
+      "AirportIATA": "OSN",
+      "AirportICAO": "RKSO",
+      "Lat": 37.090599,
+      "Lon": 127.029999
+    },
+    {
+      "AirportID": 2378,
+      "AirportName": "Gimpo International Airport",
+      "City": "Seoul",
+      "Country": "South Korea",
+      "AirportIATA": "GMP",
+      "AirportICAO": "RKSS",
+      "Lat": 37.5583,
+      "Lon": 126.791
+    },
+    {
+      "AirportID": 2379,
+      "AirportName": "Suwon Airport",
+      "City": "Suwon",
+      "Country": "South Korea",
+      "AirportIATA": "SWU",
+      "AirportICAO": "RKSW",
+      "Lat": 37.23939896,
+      "Lon": 127.0070038
+    },
+    {
+      "AirportID": 2380,
+      "AirportName": "Pohang Airport (G-815/K-3)",
+      "City": "Pohang",
+      "Country": "South Korea",
+      "AirportIATA": "KPO",
+      "AirportICAO": "RKTH",
+      "Lat": 35.987955,
+      "Lon": 129.420383
+    },
+    {
+      "AirportID": 2381,
+      "AirportName": "Daegu Airport",
+      "City": "Taegu",
+      "Country": "South Korea",
+      "AirportIATA": "TAE",
+      "AirportICAO": "RKTN",
+      "Lat": 35.896872,
+      "Lon": 128.65531
+    },
+    {
+      "AirportID": 2383,
+      "AirportName": "Yecheon Airbase",
+      "City": "Yechon",
+      "Country": "South Korea",
+      "AirportIATA": "YEC",
+      "AirportICAO": "RKTY",
+      "Lat": 36.630373,
+      "Lon": 128.34971
+    },
+    {
+      "AirportID": 2939,
+      "AirportName": "Boryspil International Airport",
+      "City": "Kiev",
+      "Country": "Ukraine",
+      "AirportIATA": "KBP",
+      "AirportICAO": "UKBB",
+      "Lat": 50.34500122,
+      "Lon": 30.8946991
+    },
+    {
+      "AirportID": 2940,
+      "AirportName": "Donetsk International Airport",
+      "City": "Donetsk",
+      "Country": "Ukraine",
+      "AirportIATA": "DOK",
+      "AirportICAO": "UKCC",
+      "Lat": 48.07360077,
+      "Lon": 37.73970032
+    },
+    {
+      "AirportID": 2941,
+      "AirportName": "Dnipropetrovsk International Airport",
+      "City": "Dnepropetrovsk",
+      "Country": "Ukraine",
+      "AirportIATA": "DNK",
+      "AirportICAO": "UKDD",
+      "Lat": 48.35720062,
+      "Lon": 35.1006012
+    },
+    {
+      "AirportID": 2942,
+      "AirportName": "Simferopol International Airport",
+      "City": "Simferopol",
+      "Country": "Ukraine",
+      "AirportIATA": "SIP",
+      "AirportICAO": "UKFF",
+      "Lat": 45.05220032,
+      "Lon": 33.97510147
+    },
+    {
+      "AirportID": 2944,
+      "AirportName": "Kiev Zhuliany International Airport",
+      "City": "Kiev",
+      "Country": "Ukraine",
+      "AirportIATA": "IEV",
+      "AirportICAO": "UKKK",
+      "Lat": 50.40194,
+      "Lon": 30.45194
+    },
+    {
+      "AirportID": 2945,
+      "AirportName": "Lviv International Airport",
+      "City": "Lvov",
+      "Country": "Ukraine",
+      "AirportIATA": "LWO",
+      "AirportICAO": "UKLL",
+      "Lat": 49.8125,
+      "Lon": 23.95610046
+    },
+    {
+      "AirportID": 2947,
+      "AirportName": "Odessa International Airport",
+      "City": "Odessa",
+      "Country": "Ukraine",
+      "AirportIATA": "ODS",
+      "AirportICAO": "UKOO",
+      "Lat": 46.42679977,
+      "Lon": 30.67650032
+    },
+    {
+      "AirportID": 3930,
+      "AirportName": "Incheon International Airport",
+      "City": "Seoul",
+      "Country": "South Korea",
+      "AirportIATA": "ICN",
+      "AirportICAO": "RKSI",
+      "Lat": 37.46910095,
+      "Lon": 126.4509964
+    },
+    {
+      "AirportID": 3954,
+      "AirportName": "?iauliai International Airport",
+      "City": "Siauliai",
+      "Country": "Lithuania",
+      "AirportIATA": "SQQ",
+      "AirportICAO": "EYSA",
+      "Lat": 55.89390182,
+      "Lon": 23.39500046
+    },
+    {
+      "AirportID": 3955,
+      "AirportName": "Barysiai Airport",
+      "City": "Barysiai",
+      "Country": "Lithuania",
+      "AirportIATA": "HLJ",
+      "AirportICAO": "EYSB",
+      "Lat": 56.0705986,
+      "Lon": 23.55809975
+    },
+    {
+      "AirportID": 3956,
+      "AirportName": "Kaunas International Airport",
+      "City": "Kaunas",
+      "Country": "Lithuania",
+      "AirportIATA": "KUN",
+      "AirportICAO": "EYKA",
+      "Lat": 54.96390152,
+      "Lon": 24.08480072
+    },
+    {
+      "AirportID": 3958,
+      "AirportName": "Palanga International Airport",
+      "City": "Palanga",
+      "Country": "Lithuania",
+      "AirportIATA": "PLQ",
+      "AirportICAO": "EYPA",
+      "Lat": 55.97320175,
+      "Lon": 21.09390068
+    },
+    {
+      "AirportID": 3959,
+      "AirportName": "Vilnius International Airport",
+      "City": "Vilnius",
+      "Country": "Lithuania",
+      "AirportIATA": "VNO",
+      "AirportICAO": "EYVI",
+      "Lat": 54.634102,
+      "Lon": 25.285801
+    },
+    {
+      "AirportID": 3960,
+      "AirportName": "Panev??ys Air Base",
+      "City": "Panevezys",
+      "Country": "Lithuania",
+      "AirportIATA": "PNV",
+      "AirportICAO": "EYPP",
+      "Lat": 55.72940063,
+      "Lon": 24.46080017
+    },
+    {
+      "AirportID": 3987,
+      "AirportName": "Nev?ehir Kapadokya Airport",
+      "City": "Nevsehir",
+      "Country": "Turkey",
+      "AirportIATA": "NAV",
+      "AirportICAO": "LTAZ",
+      "Lat": 38.7719,
+      "Lon": 34.5345
+    },
+    {
+      "AirportID": 4189,
+      "AirportName": "Muan International Airport",
+      "City": "Muan",
+      "Country": "South Korea",
+      "AirportIATA": "MWX",
+      "AirportICAO": "RKJB",
+      "Lat": 34.991406,
+      "Lon": 126.382814
+    },
+    {
+      "AirportID": 4315,
+      "AirportName": "Milas Bodrum International Airport",
+      "City": "Bodrum",
+      "Country": "Turkey",
+      "AirportIATA": "BJV",
+      "AirportICAO": "LTFE",
+      "Lat": 37.25059891,
+      "Lon": 27.66430092
+    },
+    {
+      "AirportID": 4317,
+      "AirportName": "Sabiha G?k?en International Airport",
+      "City": "Istanbul",
+      "Country": "Turkey",
+      "AirportIATA": "SAW",
+      "AirportICAO": "LTFJ",
+      "Lat": 40.89860153,
+      "Lon": 29.30920029
+    },
+    {
+      "AirportID": 5795,
+      "AirportName": "U?ak Airport",
+      "City": "Usak",
+      "Country": "Turkey",
+      "AirportIATA": "USQ",
+      "AirportICAO": "LTBO",
+      "Lat": 38.68149948,
+      "Lon": 29.47170067
+    },
+    {
+      "AirportID": 5796,
+      "AirportName": "Kars Airport",
+      "City": "Kars",
+      "Country": "Turkey",
+      "AirportIATA": "KSY",
+      "AirportICAO": "LTCF",
+      "Lat": 40.56219864,
+      "Lon": 43.11500168
+    },
+    {
+      "AirportID": 5797,
+      "AirportName": "?anl%uFFFD%uFFFDurfa Airport",
+      "City": "Sanliurfa",
+      "Country": "Turkey",
+      "AirportIATA": "SFQ",
+      "AirportICAO": "LTCH",
+      "Lat": 37.09429932,
+      "Lon": 38.8470993
+    },
+    {
+      "AirportID": 5798,
+      "AirportName": "Kahramanmara? Airport",
+      "City": "Kahramanmaras",
+      "Country": "Turkey",
+      "AirportIATA": "KCM",
+      "AirportICAO": "LTCN",
+      "Lat": 37.53882599,
+      "Lon": 36.95352173
+    },
+    {
+      "AirportID": 5799,
+      "AirportName": "A?r%uFFFD%uFFFD Airport",
+      "City": "Agri",
+      "Country": "Turkey",
+      "AirportIATA": "AJI",
+      "AirportICAO": "LTCO",
+      "Lat": 39.65454102,
+      "Lon": 43.02597809
+    },
+    {
+      "AirportID": 5800,
+      "AirportName": "Ad%uFFFD%uFFFDyaman Airport",
+      "City": "Adiyaman",
+      "Country": "Turkey",
+      "AirportIATA": "ADF",
+      "AirportICAO": "LTCP",
+      "Lat": 37.73139954,
+      "Lon": 38.46889877
+    },
+    {
+      "AirportID": 5801,
+      "AirportName": "S?leyman Demirel International Airport",
+      "City": "Isparta",
+      "Country": "Turkey",
+      "AirportIATA": "ISE",
+      "AirportICAO": "LTFC",
+      "Lat": 37.85540009,
+      "Lon": 30.36840057
+    },
+    {
+      "AirportID": 5802,
+      "AirportName": "Bal%uFFFD%uFFFDkesir K?rfez Airport",
+      "City": "Balikesir Korfez",
+      "Country": "Turkey",
+      "AirportIATA": "EDO",
+      "AirportICAO": "LTFD",
+      "Lat": 39.55459976,
+      "Lon": 27.01379967
+    },
+    {
+      "AirportID": 5803,
+      "AirportName": "Samsun ?ar?amba Airport",
+      "City": "Samsun",
+      "Country": "Turkey",
+      "AirportIATA": "SZF",
+      "AirportICAO": "LTFH",
+      "Lat": 41.254501,
+      "Lon": 36.567101
+    },
+    {
+      "AirportID": 6003,
+      "AirportName": "Kunsan Air Base",
+      "City": "Kunsan",
+      "Country": "South Korea",
+      "AirportIATA": "KUV",
+      "AirportICAO": "RKJK",
+      "Lat": 35.90380096,
+      "Lon": 126.6159973
+    },
+    {
+      "AirportID": 6004,
+      "AirportName": "Mokpo Heliport",
+      "City": "Mokpo",
+      "Country": "South Korea",
+      "AirportIATA": "MPK",
+      "AirportICAO": "RKJM",
+      "Lat": 34.75889969,
+      "Lon": 126.3799973
+    },
+    {
+      "AirportID": 6005,
+      "AirportName": "Wonju/Hoengseong Air Base (K-38/K-46)",
+      "City": "Wonju",
+      "Country": "South Korea",
+      "AirportIATA": "WJU",
+      "AirportICAO": "RKNW",
+      "Lat": 37.441201,
+      "Lon": 127.963858
+    },
+    {
+      "AirportID": 6006,
+      "AirportName": "Yangyang International Airport",
+      "City": "Sokcho / Gangneung",
+      "Country": "South Korea",
+      "AirportIATA": "YNY",
+      "AirportICAO": "RKNY",
+      "Lat": 38.061298,
+      "Lon": 128.669006
+    },
+    {
+      "AirportID": 6007,
+      "AirportName": "Sacheon Air Base/Airport",
+      "City": "Sacheon",
+      "Country": "South Korea",
+      "AirportIATA": "HIN",
+      "AirportICAO": "RKPS",
+      "Lat": 35.088591,
+      "Lon": 128.071747
+    },
+    {
+      "AirportID": 6008,
+      "AirportName": "Cheongju International Airport/Cheongju Air Base (K-59/G-513)",
+      "City": "Chongju",
+      "Country": "South Korea",
+      "AirportIATA": "CJJ",
+      "AirportICAO": "RKTU",
+      "Lat": 36.717008,
+      "Lon": 127.498741
+    },
+    {
+      "AirportID": 6101,
+      "AirportName": "Mariupol International Airport",
+      "City": "Mariupol International",
+      "Country": "Ukraine",
+      "AirportIATA": "MPW",
+      "AirportICAO": "UKCM",
+      "Lat": 47.0760994,
+      "Lon": 37.44960022
+    },
+    {
+      "AirportID": 6102,
+      "AirportName": "Luhansk International Airport",
+      "City": "Lugansk",
+      "Country": "Ukraine",
+      "AirportIATA": "VSG",
+      "AirportICAO": "UKCW",
+      "Lat": 48.41740036,
+      "Lon": 39.37409973
+    },
+    {
+      "AirportID": 6103,
+      "AirportName": "Zaporizhzhia International Airport",
+      "City": "Zaporozhye",
+      "Country": "Ukraine",
+      "AirportIATA": "OZH",
+      "AirportICAO": "UKDE",
+      "Lat": 47.86700058,
+      "Lon": 35.31570053
+    },
+    {
+      "AirportID": 6104,
+      "AirportName": "Kryvyi Rih International Airport",
+      "City": "Krivoy Rog",
+      "Country": "Ukraine",
+      "AirportIATA": "KWG",
+      "AirportICAO": "UKDR",
+      "Lat": 48.04330063,
+      "Lon": 33.20999908
+    },
+    {
+      "AirportID": 6105,
+      "AirportName": "Kharkiv International Airport",
+      "City": "Kharkov",
+      "Country": "Ukraine",
+      "AirportIATA": "HRK",
+      "AirportICAO": "UKHH",
+      "Lat": 49.92480087,
+      "Lon": 36.29000092
+    },
+    {
+      "AirportID": 6106,
+      "AirportName": "Ivano-Frankivsk International Airport",
+      "City": "Ivano-Frankivsk",
+      "Country": "Ukraine",
+      "AirportIATA": "IFO",
+      "AirportICAO": "UKLI",
+      "Lat": 48.88420105,
+      "Lon": 24.68610001
+    },
+    {
+      "AirportID": 6107,
+      "AirportName": "Chernivtsi International Airport",
+      "City": "Chernovtsk",
+      "Country": "Ukraine",
+      "AirportIATA": "CWC",
+      "AirportICAO": "UKLN",
+      "Lat": 48.25930023,
+      "Lon": 25.98080063
+    },
+    {
+      "AirportID": 6108,
+      "AirportName": "Rivne International Airport",
+      "City": "Rivne",
+      "Country": "Ukraine",
+      "AirportIATA": "RWN",
+      "AirportICAO": "UKLR",
+      "Lat": 50.60710144,
+      "Lon": 26.14159966
+    },
+    {
+      "AirportID": 6109,
+      "AirportName": "Uzhhorod International Airport",
+      "City": "Uzhgorod",
+      "Country": "Ukraine",
+      "AirportIATA": "UDJ",
+      "AirportICAO": "UKLU",
+      "Lat": 48.63430023,
+      "Lon": 22.26339912
+    },
+    {
+      "AirportID": 6753,
+      "AirportName": "Mardin Airport",
+      "City": "Mardin",
+      "Country": "Turkey",
+      "AirportIATA": "MQM",
+      "AirportICAO": "LTCR",
+      "Lat": 37.22330093,
+      "Lon": 40.63169861
+    },
+    {
+      "AirportID": 6780,
+      "AirportName": "Anadolu Airport",
+      "City": "Eskissehir",
+      "Country": "Turkey",
+      "AirportIATA": "AOE",
+      "AirportICAO": "LTBY",
+      "Lat": 39.809898,
+      "Lon": 30.5194
+    },
+    {
+      "AirportID": 6781,
+      "AirportName": "?anakkale Airport",
+      "City": "Canakkale",
+      "Country": "Turkey",
+      "AirportIATA": "CKZ",
+      "AirportICAO": "LTBH",
+      "Lat": 40.13769913,
+      "Lon": 26.42679977
+    },
+    {
+      "AirportID": 6782,
+      "AirportName": "Mu? Airport",
+      "City": "Mus",
+      "Country": "Turkey",
+      "AirportIATA": "MSR",
+      "AirportICAO": "LTCK",
+      "Lat": 38.74779892,
+      "Lon": 41.66120148
+    },
+    {
+      "AirportID": 6783,
+      "AirportName": "Sinop Airport",
+      "City": "Sinop",
+      "Country": "Turkey",
+      "AirportIATA": "NOP",
+      "AirportICAO": "LTCM",
+      "Lat": 42.01580048,
+      "Lon": 35.06639862
+    },
+    {
+      "AirportID": 6784,
+      "AirportName": "Tekirda? ?orlu Airport",
+      "City": "?orlu",
+      "Country": "Turkey",
+      "AirportIATA": "TEQ",
+      "AirportICAO": "LTBU",
+      "Lat": 41.13819885,
+      "Lon": 27.91909981
+    },
+    {
+      "AirportID": 6785,
+      "AirportName": "Bursa Yeni?ehir Airport",
+      "City": "Yenisehir",
+      "Country": "Turkey",
+      "AirportIATA": "YEI",
+      "AirportICAO": "LTBR",
+      "Lat": 40.25519943,
+      "Lon": 29.56259918
+    },
+    {
+      "AirportID": 6905,
+      "AirportName": "Lutsk Airport",
+      "City": "Lutsk",
+      "Country": "Ukraine",
+      "AirportIATA": "UCK",
+      "AirportICAO": "UKLC",
+      "Lat": 50.678404,
+      "Lon": 25.487165
+    },
+    {
+      "AirportID": 6906,
+      "AirportName": "Chernihiv Shestovitsa Airport",
+      "City": "Chernigov",
+      "Country": "Ukraine",
+      "AirportIATA": "CEJ",
+      "AirportICAO": "UKRR",
+      "Lat": 51.40219879,
+      "Lon": 31.1583004
+    },
+    {
+      "AirportID": 6928,
+      "AirportName": "Lausanne-Bl?cherette Airport",
+      "City": "Lausanne",
+      "Country": "Switzerland",
+      "AirportIATA": "QLS",
+      "AirportICAO": "LSGL",
+      "Lat": 46.54529953,
+      "Lon": 6.616670132
+    },
+    {
+      "AirportID": 6930,
+      "AirportName": "Locarno Airport",
+      "City": "Locarno",
+      "Country": "Switzerland",
+      "AirportIATA": "ZJI",
+      "AirportICAO": "LSZL",
+      "Lat": 46.16080093,
+      "Lon": 8.878609657
+    },
+    {
+      "AirportID": 6931,
+      "AirportName": "Neuchatel Airport",
+      "City": "Neuchatel",
+      "Country": "Switzerland",
+      "AirportIATA": "QNC",
+      "AirportICAO": "LSGN",
+      "Lat": 46.95750046,
+      "Lon": 6.864719868
+    },
+    {
+      "AirportID": 6986,
+      "AirportName": "Cherkasy International Airport",
+      "City": "Cherkassy",
+      "Country": "Ukraine",
+      "AirportIATA": "CKC",
+      "AirportICAO": "UKKE",
+      "Lat": 49.41559982,
+      "Lon": 31.99530029
+    },
+    {
+      "AirportID": 6990,
+      "AirportName": "Mykolaiv International Airport",
+      "City": "Nikolayev",
+      "Country": "Ukraine",
+      "AirportIATA": "NLV",
+      "AirportICAO": "UKON",
+      "Lat": 47.05789948,
+      "Lon": 31.9197998
+    },
+    {
+      "AirportID": 7027,
+      "AirportName": "Interlaken Air Base",
+      "City": "Interlaken",
+      "Country": "Switzerland",
+      "AirportIATA": "ZIN",
+      "AirportICAO": "LSMI",
+      "Lat": 46.6766014,
+      "Lon": 7.8790798
+    },
+    {
+      "AirportID": 7453,
+      "AirportName": "Hatay Airport",
+      "City": "Hatay",
+      "Country": "Turkey",
+      "AirportIATA": "HTY",
+      "AirportICAO": "LTDA",
+      "Lat": 36.36277771,
+      "Lon": 36.28222275
+    },
+    {
+      "AirportID": 7516,
+      "AirportName": "Kherson International Airport",
+      "City": "Kherson",
+      "Country": "Ukraine",
+      "AirportIATA": "KHE",
+      "AirportICAO": "UKOH",
+      "Lat": 46.6758,
+      "Lon": 32.506401
+    },
+    {
+      "AirportID": 7821,
+      "AirportName": "Zonguldak Airport",
+      "City": "Zonguldak",
+      "Country": "Turkey",
+      "AirportIATA": "ONQ",
+      "AirportICAO": "LTAS",
+      "Lat": 41.50640106,
+      "Lon": 32.08860016
+    },
+    {
+      "AirportID": 7854,
+      "AirportName": "Kirovograd Airport",
+      "City": "Kirovograd",
+      "Country": "Ukraine",
+      "AirportIATA": "KGO",
+      "AirportICAO": "UKKG",
+      "Lat": 48.5428009,
+      "Lon": 32.28499985
+    },
+    {
+      "AirportID": 7863,
+      "AirportName": "Belbek Airport",
+      "City": "Sevastopol",
+      "Country": "Ukraine",
+      "AirportIATA": "UKS",
+      "AirportICAO": "UKFB",
+      "Lat": 44.68899918,
+      "Lon": 33.57099915
+    },
+    {
+      "AirportID": 7963,
+      "AirportName": "Kerch Airport",
+      "City": "Kerch",
+      "Country": "Ukraine",
+      "AirportIATA": "KHC",
+      "AirportICAO": "UKFK",
+      "Lat": 45.37250137,
+      "Lon": 36.40140152
+    },
+    {
+      "AirportID": 8000,
+      "AirportName": "Gostomel Airport",
+      "City": "Kiev",
+      "Country": "Ukraine",
+      "AirportIATA": "GML",
+      "AirportICAO": "UKKM",
+      "Lat": 50.60350037,
+      "Lon": 30.19190025
+    },
+    {
+      "AirportID": 8209,
+      "AirportName": "Vinnytsia/Gavyryshivka Airport",
+      "City": "Vinnitsa",
+      "Country": "Ukraine",
+      "AirportIATA": "VIN",
+      "AirportICAO": "UKWW",
+      "Lat": 49.242531,
+      "Lon": 28.613778
+    },
+    {
+      "AirportID": 8266,
+      "AirportName": "Gazipa?a Airport",
+      "City": "Alanya",
+      "Country": "Turkey",
+      "AirportIATA": "GZP",
+      "AirportICAO": "LTGP",
+      "Lat": 36.299217,
+      "Lon": 32.300598
+    },
+    {
+      "AirportID": 8328,
+      "AirportName": "Suprunovka Airport",
+      "City": "Poltava",
+      "Country": "Ukraine",
+      "AirportIATA": "PLV",
+      "AirportICAO": "UKHP",
+      "Lat": 49.5685997,
+      "Lon": 34.39720154
+    },
+    {
+      "AirportID": 8419,
+      "AirportName": "Jeongseok Airport",
+      "City": "Seogwipo",
+      "Country": "South Korea",
+      "AirportIATA": "JDG",
+      "AirportICAO": "RKPD",
+      "Lat": 33.39960098,
+      "Lon": 126.711998
+    },
+    {
+      "AirportID": 8468,
+      "AirportName": "Khmelnytskyi Airport",
+      "City": "Khmeinitskiy",
+      "Country": "Ukraine",
+      "AirportIATA": "HMJ",
+      "AirportICAO": "UKLH",
+      "Lat": 49.359699,
+      "Lon": 26.933399
+    },
+    {
+      "AirportID": 8613,
+      "AirportName": "Buochs Airport",
+      "City": "Buochs",
+      "Country": "Switzerland",
+      "AirportIATA": "BXO",
+      "AirportICAO": "LSZC",
+      "Lat": 46.974444,
+      "Lon": 8.396944
+    },
+    {
+      "AirportID": 8946,
+      "AirportName": "Zhytomyr Airport",
+      "City": "Zhytomyr",
+      "Country": "Ukraine",
+      "AirportIATA": "ZTR",
+      "AirportICAO": "UKKV",
+      "Lat": 50.270556,
+      "Lon": 28.738611
+    },
+    {
+      "AirportID": 9044,
+      "AirportName": "?anl%uFFFD%uFFFDurfa GAP Airport",
+      "City": "Sanliurfa",
+      "Country": "Turkey",
+      "AirportIATA": "GNY",
+      "AirportICAO": "LTCS",
+      "Lat": 37.445663,
+      "Lon": 38.895592
+    },
+    {
+      "AirportID": 9045,
+      "AirportName": "Zafer Airport",
+      "City": "Kutahya",
+      "Country": "Turkey",
+      "AirportIATA": "KZR",
+      "AirportICAO": "LTBZ",
+      "Lat": 39.113079,
+      "Lon": 30.128111
+    },
+    {
+      "AirportID": 9273,
+      "AirportName": "Kastamonu Airport",
+      "City": "Kastamonu",
+      "Country": "Turkey",
+      "AirportIATA": "KFS",
+      "AirportICAO": "LTAL",
+      "Lat": 41.31420135,
+      "Lon": 33.79579926
+    },
+    {
+      "AirportID": 9395,
+      "AirportName": "Bursa Airport",
+      "City": "Bursa",
+      "Country": "Turkey",
+      "AirportIATA": "BTZ",
+      "AirportICAO": "LTBE",
+      "Lat": 40.23329926,
+      "Lon": 29.00919914
+    },
+    {
+      "AirportID": 9820,
+      "AirportName": "?%uFFFD%uFFFDrnak ?erafettin El?i Airport",
+      "City": "Cizre",
+      "Country": "Turkey",
+      "AirportIATA": "NKT",
+      "AirportICAO": "LTCV",
+      "Lat": 37.3647,
+      "Lon": 42.0582
+    },
+    {
+      "AirportID": 9939,
+      "AirportName": "Seosan Air Base",
+      "City": "Seosan",
+      "Country": "South Korea",
+      "AirportIATA": "HMY",
+      "AirportICAO": "RKTP",
+      "Lat": 36.703999,
+      "Lon": 126.486
+    },
+    {
+      "AirportID": 10069,
+      "AirportName": "Kramatorsk Airport",
+      "City": "Kramatorsk",
+      "Country": "Ukraine",
+      "AirportIATA": "KRQ",
+      "AirportICAO": "UKCK",
+      "Lat": 48.70560074,
+      "Lon": 37.62889862
+    },
+    {
+      "AirportID": 10157,
+      "AirportName": "Berdyansk Airport",
+      "City": "Berdyansk",
+      "Country": "Ukraine",
+      "AirportIATA": "ERD",
+      "AirportICAO": "UKDB",
+      "Lat": 46.81499863,
+      "Lon": 36.7580986
+    },
+    {
+      "AirportID": 11357,
+      "AirportName": "Hakkari Y?ksekova Airport",
+      "City": "Hakkari",
+      "Country": "Turkey",
+      "AirportIATA": "YKO",
+      "AirportICAO": "LTCW",
+      "Lat": 37.5497,
+      "Lon": 44.2381
+    },
+    {
+      "AirportID": 13069,
+      "AirportName": "Klaip?da Airport",
+      "City": "Klaipeda",
+      "Country": "Lithuania",
+      "AirportIATA": "KLJ",
+      "AirportICAO": "EYKL",
+      "Lat": 55.7118988,
+      "Lon": 21.24279976
+    }
+  ]

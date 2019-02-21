@@ -1,0 +1,70 @@
+
+<div class="container mt-4">
+  <div class="row">
+    <h1>{{authService.decodedToken?.unique_name | titlecase}}'s Flight</h1>
+  </div>
+
+  <div class="row">
+    <div class="col-sm-4">
+      <div class="card">        
+        <div class="card-body">
+          <div>
+            <div>
+              <strong>Route Id:</strong>
+              <p>{{route.routeId}}</p>
+            </div>    
+            <div>
+              <strong>Fight Fare:</strong>
+              <p>{{route.flightFare}} EUR</p>
+            </div> 
+            <div>       
+              <strong>Origin Airport:</strong>
+              <p>{{route.sourceAirportName}}</p>
+            </div>   
+            <div>   
+              <strong>Origin Country:</strong>
+              <p>{{route.sourceAirportCountry}}</p>
+            </div>   
+            <div>   
+              <strong>Destination Airport:</strong>
+              <p>{{route.destinationAirportName}}</p>
+            </div>   
+            <div>   
+              <strong>Destination Country:</strong>
+              <p>{{route.destinationAirportCountry}}</p>
+            </div>   
+          </div>        
+          <div>
+            <strong>Price:</strong>
+            <p>{{route.flightFare}}</p>
+          </div>
+          <div>
+            <strong>Airline Name:</strong>
+            <p>{{route.airlineName}}</p>
+          </div>
+          <div>
+            <strong>Departure Date:</strong>
+            <p>{{route.departureDateTime}}</p>
+          </div>
+          <div>
+            <strong>Arrival Date:</strong>
+            <p>{{route.arrivalDateTime}}</p>
+          </div>
+        </div>
+        <div class="card-footer">
+          <div class="btn-group d-flex">
+            <button class="btn btn-primary w-100">Buy</button>
+            <button class="btn btn-success w-100">Cancel</button>
+          </div>
+        </div>       
+      </div>      
+    </div> 
+     <div class="col">
+      <app-googlemap [route]="route"></app-googlemap>
+    </div>
+  </div>
+</div>
+
+
+
+

@@ -1,0 +1,21 @@
+
+
+
+  <div class="row">
+    <div *ngFor="let route of routes" class="col-lg-2">
+      <app-searched-card [route]="route"></app-searched-card>
+    </div>
+  </div>
+
+<!-- Using pagination component in ngx-bootstrap -->
+<div class="d-flex justify-content-center">
+  <pagination
+      [boundaryLinks]="true"
+      [totalItems]="pagination.totalItems"
+      [(ngModel)]="pagination.currentPage"
+      [itemsPerPage]="pagination.itemsPerPage"
+      (pageChanged)="pageChanged($event)" 
+    previousText="&lsaquo;" nextText="&rsaquo;" firstText="&laquo;" lastText="&raquo;">
+
+  </pagination>
+</div>

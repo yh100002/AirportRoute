@@ -1,0 +1,11 @@
+
+<!-- Using ng bootstrap Typehead -->
+
+<div class="form-group" [class.has-danger]="searchFailed">
+  <input type="text" class="form-control" [(ngModel)]="model" [ngbTypeahead]="search" placeholder="search" 
+  [resultFormatter]="formatMatches" [inputFormatter]="formatMatches" (focusout)="selected()"/>
+  <span *ngIf="searching">searching...</span>
+  <div class="form-control-feedback" *ngIf="searchFailed">Sorry, suggestions could not be loaded.</div>
+  
+  <!-- <pre>Object: {{ model | json }}</pre> for debug-->
+</div>

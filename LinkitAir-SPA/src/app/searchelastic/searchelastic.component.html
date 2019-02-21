@@ -1,0 +1,22 @@
+
+
+<div class="container">
+<div class="row">
+<div class="col-sm">Origin Airport</div>
+<div class="col-sm">Destination Airport</div>
+<div class="col-sm">powered by Elasticsearch</div>
+</div>
+  <div class="row">
+    <div class="col-sm">
+      <app-searchelasticbox name="sourceAirport" (selectedOutput)="sourceSelected($event)"></app-searchelasticbox>
+    </div>
+    <div class="col-sm">
+      <app-searchelasticbox name="destinationAirport" (selectedOutput)="destinationSelected($event)"></app-searchelasticbox>
+    </div>
+    <div class="col-sm">
+      <button class="btn btn-lg btn-success" (click)="getRoute()">Search</button>
+    </div>
+  </div>
+</div>
+
+
