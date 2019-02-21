@@ -1,68 +1,104 @@
-# .Net Developer Test for Young Ho Son #
 
-# Story
-You are providing a service to a charted airplane company. This fiction company LINKIT AIR has the following flights daily (times are in departure city time):
+###Features
+- Industry Standard Authentication Based On JWT hash token
+- Auto Completion Search Keyword Based On EF In Memory Data
+- Auto Completion Search Keyword Based On Elasticsearch
+- Aggegated Log Statistic Based On Elasticsearch
+- Flight Route Map Visualization Based On Google Map
+- Kibana Dashboard
+- Swagger API Documentation
+- Registration And Login
+- Alert Notice, Error and Exception
+- Pagination
 
-* 09:55 - Amsterdam to London 
 
-* 13:15 - London to Amsterdam
+### Technical Points
+- .Net Core & Visual Studio Code
+>This is sort of technical trends. 
+>Even though they have a bit incomvenience for debugging, unit test and so on, those are light and cheap. 
+>This gives us and company a good oppotunity to have cost effective projects. 
+>Furthermore technically, thesy are actually pretty fancy and rapidly glowing. 
+>For example, you as a .Net developer can make some server modules running on IoT device based on Linux.
 
-* 10:45 - Amsterdam to Frankfurt
+- Data For DB
+>`<link>` : https://openflights.org/data.html 
+>I got all data from above organization to develope this assignment. 
+>Of course I refined data and it took some time. But the data contains latitude and longitude data so I picked them up to provide routing map gui.
 
-* 14:35 - Frankfurt to London
+- Structure Of Module & Projects
+>It was divided into as many as possible according to the role of each module. 
+>In my experiences through several projects, seperation of concerns is the most important factor for maintenance with many different developers. Especially, I think controllers should not contain many logic in itself.
 
-They want to get rid of some of travel agents and make it easier to customers to buy their tickets, so they need to develop a simple sales website. 
-At the same time, they want to gather some statistics about this service.
+- Rest API
+>To be honest, I did not pay much attention to this parts, since most operations are read only. 
+>So I used some readable words and names on them unlike Rest API CRUD conventions but it works well. :) 
 
-## Time limit
-Up to you on how much effort you want to spend and how perfect you want it to be. You can take your time to build the backend service with latest .net framework and frontend user interface with latest version of any framework you feel comfortable with.
+- Unit Test On Backend
+>I just made one simple unit test case for API module with moq and xunit.
+>I am sort of unit test believer and so I always create interfaces and injections except dtos.
+>I believe every project should cover Sonar Quebe coverage 75%.
+>By the way there were some .Net Code version conflict among referenced libraries so I had to specify explicit version number in project file. 
+>When you build it successfully, the compiler will complaint it but it will work.
 
-## Assignment
-Create a REST Service, on latest version of .net framework preferably using asp.net core, following the HTTP standards.
-Provide documentation for your API as SWAGGER or RAML.
-Create a simple user interface where a customer of the site could do the following:
+- Elasticsearch
+>When I received this assignment email, I decided to use Elasticsearch immediately. 
+>As you may know, it has a lot of benefits for flexible search and aggregation and of course scalability. 
+>In this project, all log data and flight route informations are stored in it as well as in-memory db.
 
-* Be able to select an origin.
-* Be able to select a destination.
-* Retrieve a fare offer for the given origin-destination combination.
-* Selections for origin and/or destination should be searchable, in other words the customer should be able to find an origin or destination by providing a few characters that would match either an airport code, name or description. The user interface may be in any technique that you feel comfortable with.
+- Kibana Dashboard
+>If someone choosed Elasticsearch, Kibana is next. No doubt. 
+>Of course I considered using some other dashboard directly. But I had to select Kibana for practical use.
 
-The authentication is on application level, so make sure the user interface is not bothered with authentication. There is no need for a login to purchase tickets.
-Add statistics for your backend
-To get some input on our application usage we need to collect and store some information from its traffic. Retrieve and store the require values below:
+- Docker
+>As a backend guy, I love Docker and Kubernetes.
+>But for this project I need only docker to deploy ELK handy.
 
-* Total number of requests processed
+- In Memory DB
+>Regadrless of this project, sometimes I make some in-memory cache in real. When a service is launched, it load data into memory 
+>with EF. So we can handle memory data with same manner like other ORMs. 
+>While loading data into memory, the service do indexing all data into Elastisearch as mentioned above.
 
-* Total number of requests resulted in an OK, 4xx and 5xx responses
+- Integrated Test On Frontend
+>I couldn't impelement an integrated test(e2e) on frontend, since there are some version conflicts of nodeJs so I had to give up one of Bonus. 
+>But I made one simple unit test on Frontend as a example. You can see 'auth.service.spec.ts' and run Karma.
 
-* Average response time of all requests
+- Google Map
+>I wanted to provide users with some visualized feature. 
+>That's why I looked for geograph data. I think it is a useful feature personally.
 
-* Min response time of all requests
+### Read Me
+- Prerequisite
+> - .Net Core 2.2.103
+> - Docker 18.09.1
+> - NodeJs 10.15.1
+> - Npm 6.4.1
+> - Angular CLI 7.2.3 
 
-* Max response time of all requests
+- How To Build
+> On Angular project, run npm -i to install all dependencies.
+> After that, you will be able to build.
 
-To not only store this data expose this information in a new restful endpoint as JSON and provide a dashboard to visualise this info. How to authenticate the access to this dashboard, it is up to you.
+- How To Run
+> - Make sure the docker service running on your machine 
+> - After above, Run the docker image that is in the root in branch following steps
+>> - docker network create esnetwork --driver=bridge
+>> - docker-compose up 'on the same folder of branch root'
+>> - Elasticsearch and Kinbana will be downloaded and run.
+> - After running Docker and Kibana, you can run the main service module 'LinkitAir.API' and run 'dotnet run'
+> - It will take some time to load data and indexing into Elasticsearch.
+> - After that, you can go to 'LinkitAir-SPA' and run 'ng serve' and open 'http://localhost:4200'
+> - Thats it!
 
-Collecting metrics should not impact the user experience in any way.
-Make the application configurable. No hard coded values for things like endpoints, etc. Everything should be configurable in some kind of configuration file.
+- How To Use
+> - Swagger : http://localhost:5000/swagger/index.html
+> - Linkir Air : http://localhost:4200/
+> - Kibana Dashboard : http://localhost:5601/
+>> - To use Kibana at first, you have to import one file which is in the root branch named 'kibana_dashboard_indexpattern.json'
+	You can easily import it. Go to 'Management' menu and Open 'Save Objects' link and you can see 'Import' link button upper side.
+	Then you can import the json file. And then you should make the default index pattern. Go to the 'Management' menu again.  
+	Click 'Index Pattern' link button. you can see 'logstash' and 'route' which came from the json file already.
+	Select 'logstash' and click 'Star' button. That's it. You will be able to one Dashboad with data provided by Linkit Air service.
+>> - Of course you have to make sure the range of date for data and you can set it top side menu.
+>> You can compar the dashboard data and 'Admin' json page data which you can see on the Linkit Air site.
 
-## Bonus points
-* Create a separate build for your frontend (using npm or whatever you want)
-* Build your frontend in angular (which version is up to your own preference)
-* Instead of using hardcoded mocked data, you can create in memory data-base, with actualy a respository.
-* Show us your knowledge of .net up to and including the latest released version!
-* Add e2e tests to cover basic few functional requirements.
-
-# Summary #
-By no means is the goal to get a solution covering all special cases in a 100% robust way. It's important that you can explain why you chose your solution instead of another. You can create mock data and values that make no sense (like fare prices and so on). Feel free!
-
-At least the functionality that you deliver should be error free. What you implement and how you do it is subject to your creativity and ambition :-). Good luck!
-
-## How do I submit it? ##
-* Create your branch and keep pushing your changes. 
-* Create and explain in a Markdown about your decisions in the process.
-* When it is done, let your LINKIT contact know about it via Pull Request.
-* Give instructions in a readme file so that anyone with a unix based system could download the repo and run the service on their `localhost`.
-
-### Who do I talk to? ###
-Your LINKIT contact or Repo owner/admin - **Sami Beyoglu** on sami.beyoglu@linkit.nl 
+###End
